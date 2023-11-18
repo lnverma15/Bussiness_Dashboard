@@ -63,7 +63,7 @@ const Dashboard = (onDateChange) => {
 
 
 
-                <div style={{ display: 'flex', marginLeft: '120px' }}>
+                <div style={{ display: 'flex', marginLeft: '95px' }}>
 
                   <Select
                     displayEmpty
