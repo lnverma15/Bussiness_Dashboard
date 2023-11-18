@@ -1,0 +1,21 @@
+.dashboard {
+    /* Your existing styles for the dashboard container */
+}
+
+.chart-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    /* Adjust the gap between cards */
+}
+
+.chart-card,
+.table-card {
+    /* flex: 1 0 calc(50% - 20px); */
+    border-color: aquamarine;
+    height: 500px;
+    width: 500px;
+    background-origin: padding-box;
+    /* Two cards per row with 20px gap */
+    /* Additional styles for each card */
+}
